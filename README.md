@@ -7,6 +7,8 @@ Projet Final du cours GIF-7005
 
 ### Data
 
+Big file store with [git LFS](https://git-lfs.com/)
+
 [Million song subset](http://millionsongdataset.com/pages/getting-dataset/#subset)
 
 [Million user dataset](http://millionsongdataset.com/tasteprofile/#:~:text=Getting%20the-,dataset,-First%2C%20if%20you)
